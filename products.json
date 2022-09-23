@@ -1,0 +1,22 @@
+[
+    {
+        "product": "Bread",
+        "sku": "123",
+        "listPrice": 3.0
+    },
+    {
+        "product": "Eggs",
+        "sku": "456",
+        "listPrice": 5.0
+    },
+    {
+        "product": "Milk",
+        "sku": "789",
+        "listPrice": 4.0
+    },
+    {
+        "product": "Coffee",
+        "sku": "024",
+        "listPrice": 8.0
+    }
+]
